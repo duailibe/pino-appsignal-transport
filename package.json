@@ -1,6 +1,6 @@
 {
   "name": "pino-appsignal-transport",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "AppSignal transport for pino logger",
   "type": "module",
   "types": "./types/index.d.ts",
